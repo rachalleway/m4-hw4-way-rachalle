@@ -1,0 +1,40 @@
+header{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 130%;
+    color: darkcyan;
+}
+nav{
+    word-spacing: 15px;
+}
+body{
+    max-width: 1200px;
+    margin: auto;
+    background-color: rgb(246, 246, 235);
+}
+h1{
+    font-size: 50px;
+    color: darkolivegreen;
+    text-align: center;
+}
+.image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+h2,h3{
+    color: olivedrab;
+}
+.early-career > p{
+    font-weight: bold;
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
